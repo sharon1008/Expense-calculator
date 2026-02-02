@@ -31,3 +31,4 @@ App runs at:
   http://localhost:5173
 
 ## Screenshot
+![image alt](https://github.com/sharon1008/Expense-calculator/blob/d56cd92eba8bb9e21db89e4bde371a542c5055c0/Screenshot%20(278).png)
